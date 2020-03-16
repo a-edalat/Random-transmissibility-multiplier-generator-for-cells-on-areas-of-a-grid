@@ -2,7 +2,7 @@
 
 This script is designed to create MULTX, MULTX-, MULTY, MULTY- for a dual porosity system with values currently only applied to the fracture cells.
 
-There are two separte versions created,
+There are two separte versions created:
 
 In the first instance:
 User needs to provide the dimensions of their model, and the folder they wish the output files to be saved at, the script saves the output for each of the four keywords with GRDECL format in that location.
