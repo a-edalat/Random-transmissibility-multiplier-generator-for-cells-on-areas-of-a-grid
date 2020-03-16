@@ -1,4 +1,4 @@
-# Creating grid for properties
+# Random transmissibility multiplier generator for cells on areas of a grid
 
 This script is designed to create MULTX, MULTX-, MULTY, MULTY- for a dual porosity system wih values currently only applied to the fracture cells.
 
